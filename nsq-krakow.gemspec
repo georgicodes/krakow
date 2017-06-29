@@ -4,9 +4,9 @@ Gem::Specification.new do |s|
   s.name = 'nsq-krakow'
   s.version = Krakow::VERSION.version
   s.summary = 'NSQ library'
-  s.author = 'Chris Roberts'
-  s.email = 'code@chrisroberts.org'
-  s.homepage = 'http://github.com/chrisroberts/krakow'
+  s.author = 'Georgi Knox'
+  s.email = 'georgiknox@gmail.com'
+  s.homepage = 'https://github.com/georgicodes/krakow'
   s.description = 'NSQ ruby library'
   s.license = 'Apache 2.0'
   s.require_path = 'lib'
