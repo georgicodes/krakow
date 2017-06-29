@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = 'NSQ ruby library'
   s.license = 'Apache 2.0'
   s.require_path = 'lib'
-  s.add_runtime_dependency 'celluloid'
+  s.add_runtime_dependency 'celluloid', '~> 0.16.0'
   s.add_runtime_dependency 'http'
   s.add_runtime_dependency 'multi_json'
   s.add_runtime_dependency 'digest-crc'
