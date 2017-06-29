@@ -1,7 +1,7 @@
 $LOAD_PATH.unshift File.expand_path(File.dirname(__FILE__)) + '/lib/'
 require 'krakow/version'
 Gem::Specification.new do |s|
-  s.name = 'krakow'
+  s.name = 'nsq-krakow'
   s.version = Krakow::VERSION.version
   s.summary = 'NSQ library'
   s.author = 'Chris Roberts'
