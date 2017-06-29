@@ -17,6 +17,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'childprocess'
   s.add_development_dependency 'snappy'
   s.add_development_dependency 'minitest'
-  s.files = Dir['lib/**/*'] + %w(krakow.gemspec README.md CHANGELOG.md CONTRIBUTING.md LICENSE)
+  s.files = Dir['lib/**/*'] + %w(nsq-krakow.gemspec README.md CHANGELOG.md CONTRIBUTING.md LICENSE)
   s.extra_rdoc_files = %w(CHANGELOG.md CONTRIBUTING.md LICENSE)
 end
